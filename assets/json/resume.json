@@ -4,7 +4,6 @@
     "label": "PhD Candidate in Computer Science and Engineering",
     "image": "",
     "email": "tiernan7@cs.washington.edu",
-    "phone": "(774) 364-4263",
     "url": "",
     "summary": "PhD candidate in Computer Science and Engineering with a strong foundation in chemistry and computational modeling. Experienced in molecular programming, sequence design, advanced experimental design, and interdisciplinary research. Seeking opportunities to advance impact of molecular programming through robust design and engineering foundations.",
     "location": {
@@ -284,7 +283,7 @@
   "references": [],
   "projects": [
     {
-      "name": "Leakless DNA Circuits",
+      "name": "Fast and Robust DNA Circuits",
       "summary": "Systematically optimized DNA circuits using sequence-level motifs to improve reaction kinetics without compromising robustness.",
       "highlights": ["Improved operational fidelity", "Enhanced kinetic reliability"],
       "startDate": "2021-08-01",
@@ -292,10 +291,34 @@
       "url": ""
     },
     {
-      "name": "Hachimoji Base-Pairs for Strand Displacement",
+      "name": "Non-standard Bases for Strand Displacement",
       "summary": "Pioneered incorporation of non-standard Hachimoji base-pairs into strand displacement reactions for improved performance in complex environments.",
       "highlights": ["Improved operational fidelity", "Maintained kinetic reliability with interfering background nucleic acids"],
-      "startDate": "2021-08-01",
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+     {
+      "name": "Energy landscape engineering for DNA:RNA hybrid nanotechnology",
+      "summary": "Previous research has shown that the binding energy for DNA:RNA hybrids is highly dependent on sequence composition. I contributed to work that uses sequence-level motifs in DNA:RNA hybrid circuits to maintain fast kientics regardless of sequence composition",
+      "highlights": ["Improved kinetics in DNA:RNA hyrbids", "Systematic optimization with sequence motifs"],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Reaction network optimization for dynamic nanotechnology",
+      "summary": "While much previous research has focused on improving primitives and motifs for achieving particular outcomes in nucleic acid nanotechnology, this work focuses on imprving fidelity by changign the structure of the reaction netowrk itself.",
+      "highlights": ["Reaction network optimization", "Improving single nucleotide variant descrimination"],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Model based desing of expeiments for optimizing molecular computing",
+      "summary": "I have previously worked on strategies that operate at the level of molecules or reactions. This work, in constrast, shows how we can leverage models of systematic archectectures to target performance metric and robusetness by optimizing design of expeirments",
+      "highlights": ["Applying robust model based design of expriments to molecular computing", "Transationing DNA nanotechnology to a robust engineering technology"],
+      "startDate": "",
       "endDate": "",
       "url": ""
     }
