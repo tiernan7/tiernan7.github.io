@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info:
 ---
 
 I use DNA nanotechnology and molecular programming to develop the next generation of biosensors, diagnostics, and nanofabrication tools
