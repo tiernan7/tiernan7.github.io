@@ -1,16 +1,16 @@
 ---
-
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D., <a href='https://www.cs.washington.edu/'>Paul G. Allen School of Computer Science & Engineering</a>
+subtitle: "Ph.D., <a href='https://www.cs.washington.edu/'>Paul G. Allen School of Computer Science & Engineering</a>"
 
 profile:
-align: right
-image: mev2.jpg
-image_circular: true
-more_info:
-----------
+  align: right
+  image: mev2.jpg
+  image_circular: true
+  more_info:
+---
+
 
 **I develop systematic approaches for discovering, understanding, and engineering complex physical and biological systems.**
 
@@ -22,4 +22,3 @@ Across these areas, I view discovery and engineering as a reinforcing cycle. Mec
 
 Before beginning my doctoral work, I studied chemistry, mathematics, and interdisciplinary biomedicine at the University of Massachusetts Amherst. My undergraduate research in structural DNA nanotechnology, protein biophysics, and synthetic biological systems first drew me toward the relationship between information, physical mechanism, and control.
 
-[Explore my research →](/research/)
